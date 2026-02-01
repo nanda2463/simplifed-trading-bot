@@ -44,7 +44,8 @@ A professional-grade, high-performance trading interface designed for the **Bina
 3.  **Configure Environment**:
     Create a `.env.local` file in the root directory:
     ```env
-    GEMINI_API_KEY=AIzaSyDPVp0cIs1Ywv_QGWcijPHytZkfJwR25Xk
+    GEMINI_API_KEY= ENTER YOUR API
+    
     ```
     *Note: API keys for Binance are entered directly in the UI and stored only in volatile React state for security.*
 
