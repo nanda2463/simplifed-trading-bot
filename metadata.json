@@ -1,0 +1,5 @@
+{
+  "name": "simplifed trading bot",
+  "description": "A professional trading terminal for Binance Futures Testnet (USDT-M). Features real-time order placement, validation, cryptographic request signing, and detailed activity logging.",
+  "requestFramePermissions": []
+}
